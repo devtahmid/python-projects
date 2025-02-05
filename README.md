@@ -1,5 +1,5 @@
 # python-projects
-A list of repositories that point to my python work
+Here is some of my projects(excluding small scripts) developed with Python. Each project showcases my skills and experience in various areas of programming and problem-solving. Click the links to learn more about each repository and view the code on GitHub.
 
 * <b>[High Pressure Project](https://github.com/devtahmid/High-Pressure)  </b>  
   Uses skills learnt in 'Matrix Methods in Data Analysis' course to analyse Weather forecast data and try to see which metric is a better predictor of sunshine the next day, Sunshine of the previous day or the atmospheric pressure.
